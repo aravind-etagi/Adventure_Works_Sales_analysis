@@ -1,5 +1,5 @@
 # Adventure_Works_Sales_analysis
-Sales analysis Dashboards creation with the help of Power BI tool
+Sales analysis Dashboards creation with the help of Power BI tool to help management with the overview of many parameters
 
 # Input Data
 ***AdventureWorks_Customers*** : contains customer details like Name, DOB, Gender, Annual Income etc. 
@@ -20,11 +20,19 @@ Sales analysis Dashboards creation with the help of Power BI tool
 
 # Data Model
 
-![alt text](https://github.com/aravind-etagi/Adventure_Works_Sales_analysis/blob/main/output/Model_schema.PNG)
+![alt text](https://github.com/aravind-etagi/Adventure_Works_Sales_analysis/blob/main/output_images/Model_schema.PNG)
 
 # Dashboard
 
-**Executive summary**
+**Page 1 : Executive summary**
 
-![alt text](https://github.com/aravind-etagi/Adventure_Works_Sales_analysis/blob/main/output/Executive%20summary.gif)
+![alt text](https://github.com/aravind-etagi/Adventure_Works_Sales_analysis/blob/main/output_images/Executive%20summary.gif)
+
+**Page 2 : Product Details**
+
+![alt text](https://github.com/aravind-etagi/Adventure_Works_Sales_analysis/blob/main/output_images/Product%20details.gif)
+
+**Page 3 : Customer Details**
+
+![alt text](https://github.com/aravind-etagi/Adventure_Works_Sales_analysis/blob/main/output_images/Customer%20Details.gif)
 
