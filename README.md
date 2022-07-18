@@ -26,13 +26,13 @@ Sales analysis Dashboards creation with the help of Power BI tool to help manage
 
 **Page 1 : Executive summary**
 
-![alt text](https://github.com/aravind-etagi/Adventure_Works_Sales_analysis/blob/main/output_images/Executive%20summary.gif)
+![loading Executive summary...](https://github.com/aravind-etagi/Adventure_Works_Sales_analysis/blob/main/output_images/Executive%20summary.gif)
 
 **Page 2 : Product Details**
 
-![alt text](https://github.com/aravind-etagi/Adventure_Works_Sales_analysis/blob/main/output_images/Product%20details.gif)
+![loading Product Details...](https://github.com/aravind-etagi/Adventure_Works_Sales_analysis/blob/main/output_images/Product%20details.gif)
 
 **Page 3 : Customer Details**
 
-![alt text](https://github.com/aravind-etagi/Adventure_Works_Sales_analysis/blob/main/output_images/Customer%20Details.gif)
+![loading Customer Details...](https://github.com/aravind-etagi/Adventure_Works_Sales_analysis/blob/main/output_images/Customer%20Details.gif)
 
